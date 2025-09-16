@@ -106,7 +106,7 @@ client_socket.close()
 ```
 ## OUTPUT:
 
-<img width="1501" height="491" alt="image" src="https://github.com/user-attachments/assets/c3e2637a-2045-49c1-a3da-01cdeed6f73c" />
+<img width="1501" height="491" alt="image" src="https://github.com/user-attachments/assets/1f3f4aee-7a87-43fb-a243-4350eba134bf" />
 
 
 ## Result:
